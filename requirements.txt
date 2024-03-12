@@ -13,7 +13,7 @@ dill==0.3.6
 filelock==3.12.2
 fsspec==2023.6.0
 gitdb2==2.0.6
-gitpython==2.1.14
+gitpython==3.1.41
 google-pasta==0.2.0
 huggingface-hub==0.15.1
 importlib-metadata==4.13.0
