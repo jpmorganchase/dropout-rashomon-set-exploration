@@ -86,7 +86,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 -e git+https://github.com/cocodataset/cocoapi.git@8c9bcc3cf640524c4c20a9c40e89cb6a2f2fa0e9#egg=pycocotools&subdirectory=PythonAPI
 pycparser==2.21
-pycryptodome==3.18.0
+pycryptodome==3.19.1
 Pygments==2.16.1
 pyparsing==3.0.9
 pyquaternion==0.9.9
