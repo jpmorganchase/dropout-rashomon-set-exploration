@@ -122,7 +122,7 @@ triton==2.0.0
 typing==3.7.4.3
 typing_extensions==4.7.1
 tzdata==2023.3
-urllib3==1.26.16
+urllib3==1.26.18
 wcwidth==0.2.6
 yapf==0.40.1
 zipp==3.16.2
