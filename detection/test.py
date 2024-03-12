@@ -1,4 +1,5 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+## SPDX-License-Identifier: Apache-2.0
+## Copyright : J.P. Morgan Chase & Co.
 import argparse
 import os
 import os.path as osp

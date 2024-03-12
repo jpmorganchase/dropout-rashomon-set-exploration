@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: Apache-2.0
+## Copyright : J.P. Morgan Chase & Co.
 import numpy as np
 import pickle as pkl
 import argparse 
