@@ -70,7 +70,7 @@ torch==2.0.1
 torchaudio==2.0.2
 torchvision==0.15.2
 tornado==6.4
-tqdm==4.66.2
+tqdm==4.66.3
 traitlets==5.14.2
 triton==2.0.0
 typing-extensions==4.10.0
